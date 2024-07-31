@@ -1,0 +1,218 @@
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Akit5.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\LibTessDotNet.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Common.Geometry.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Common.Geometry.Shapes.Tools.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Technology.Scripting.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Tekla.Technology.Serialization.dll
+C:\TRABALHO - PAULO HENRIQUE\@GIT\PiAitch\Tekla\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\josil\Documents\projetos csharp\TMSABolt\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\obj\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Application.Library.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.BIM.DirectManipulation.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.CustomPropertyPlugin.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Dialog.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Drawing.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Plugins.DirectManipulation.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Plugins.dll
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Application.Library.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.BIM.DirectManipulation.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Dialog.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Drawing.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Plugins.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\Tekla.Structures.Plugins.DirectManipulation.xml
+C:\DEV\GitHub\gtsdev031\WinBoltAttribute\bin\Debug\System.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\System.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão2022\gtsdev031_22\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\System.dll
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão 2023\gtsdev031_23\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Buffers.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Memory.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Numerics.Vectors.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Technology.Serialization.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Trimble.Remoting.dll
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Buffers.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Memory.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Numerics.Vectors.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.config
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\WinBoltAttribute.pdb
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Buffers.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Memory.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Numerics.Vectors.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Technology.Serialization.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Trimble.Remoting.dll
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Buffers.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Memory.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Numerics.Vectors.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Datatype.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\bin\Debug\Tekla.Structures.Model.xml
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.AssemblyReference.cache
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.SuggestedBindingRedirects.cache
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.MainForm.resources
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.Properties.Resources.resources
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.GenerateResource.cache
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CoreCompileInputs.cache
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe.manifest
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.application
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.csproj.CopyComplete
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.exe
+C:\DEV\GitHub\Versão2024\31_12_2024\gtsdev031_24\WinBoltAttribute\obj\Debug\WinBoltAttribute.pdb

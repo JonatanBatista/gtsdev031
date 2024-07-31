@@ -1,0 +1,895 @@
+
+template _tmp_0
+{
+    name = "tpled_template";
+    type = TEXTUAL;
+    width = 265;
+    maxheight = 40;
+    columns = (1, 1);
+    gap = 0;
+    fillpolicy = EVEN;
+    filldirection = HORIZONTAL;
+    fillstartfrom = TOPLEFT;
+    margins = (1, 1, 1, 1);
+    gridxspacing = 1;
+    gridyspacing = 1;
+    version = 4.1;
+    created = "16.01.2023 11:58";
+    modified = "17.01.2023 15:51";
+    notes = "";
+
+    row _tmp_1
+    {
+        name = "BOLT";
+        height = 9;
+        visibility = TRUE;
+        usecolumns = FALSE;
+        rule = "";
+        contenttype = "BOLT";
+        sorttype = COMBINE;
+
+        valuefield _tmp_2
+        {
+            name = "NUT.NAME_campo";
+            location = (177, 5);
+            formula = "GetValue(\"NUT.NAME1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 40;
+            decimals = 0;
+            sortdirection = NONE;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_3
+        {
+            name = "WASHER.NAME_campo";
+            location = (46, 5);
+            formula = "GetValue(\"WASHER.NAME1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 40;
+            decimals = 0;
+            sortdirection = NONE;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_4
+        {
+            name = "NAME_campo";
+            location = (2, 5);
+            formula = "GetValue(\"NAME\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 40;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_5
+        {
+            name = "Parafuso";
+            x1 = 2;
+            y1 = 7;
+            x2 = 2;
+            y2 = 7;
+            string = ">>PARAFUSO::";
+            fontname = "Arial Black";
+            fontcolor = 162;
+            fonttype = 2;
+            fontsize = 1;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_7
+        {
+            name = "Parafuso_1";
+            x1 = 46;
+            y1 = 7;
+            x2 = 46;
+            y2 = 7;
+            string = ">>ARRUELA1:";
+            fontname = "Arial Black";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 1;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_10
+        {
+            name = "WASHER.NAME_campo_1";
+            location = (89, 5);
+            formula = "GetValue(\"WASHER.NAME2\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 40;
+            decimals = 0;
+            sortdirection = NONE;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_11
+        {
+            name = "Parafuso_2";
+            x1 = 89;
+            y1 = 7;
+            x2 = 89;
+            y2 = 7;
+            string = ">>ARRUELA 2:";
+            fontname = "Arial Black";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 1;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_14
+        {
+            name = "WASHER.NAME_campo_2";
+            location = (134, 5);
+            formula = "GetValue(\"WASHER.NAME3\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 40;
+            decimals = 0;
+            sortdirection = NONE;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_15
+        {
+            name = "Parafuso_3";
+            x1 = 134;
+            y1 = 7;
+            x2 = 134;
+            y2 = 7;
+            string = ">>ARRUELA 3:";
+            fontname = "Arial Black";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 1;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_17
+        {
+            name = "Parafuso_4";
+            x1 = 177;
+            y1 = 7;
+            x2 = 177;
+            y2 = 7;
+            string = ">>PORCA 1:";
+            fontname = "Arial Black";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 1;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_22
+        {
+            name = "NUT.NAME_campo_1";
+            location = (220, 5);
+            formula = "GetValue(\"NUT.NAME2\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 40;
+            decimals = 0;
+            sortdirection = NONE;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_23
+        {
+            name = "Parafuso_5";
+            x1 = 220;
+            y1 = 7;
+            x2 = 220;
+            y2 = 7;
+            string = ">>PORCA 2:";
+            fontname = "Arial Black";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 1;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_25
+        {
+            name = "NAME_campo_1";
+            location = (20, 3);
+            formula = "GetValue(\"USERDEFINED.MARCA_PARAFUSO1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_29
+        {
+            name = "Parafuso_6";
+            x1 = 2;
+            y1 = 3;
+            x2 = 2;
+            y2 = 3;
+            string = ">>MARCA PARAF:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_32
+        {
+            name = "Parafuso_7";
+            x1 = 2;
+            y1 = 1;
+            x2 = 2;
+            y2 = 1;
+            string = ">>COD ERP PARAF:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_33
+        {
+            name = "NAME_campo_2";
+            location = (20, 1);
+            formula = "GetValue(\"USERDEFINED.MAT_PARAFUSO1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_38
+        {
+            name = "NAME_campo_3";
+            location = (66, 3);
+            formula = "GetValue(\"USERDEFINED.MARCA_ARRUELA1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_39
+        {
+            name = "Parafuso_8";
+            x1 = 46;
+            y1 = 3;
+            x2 = 46;
+            y2 = 3;
+            string = ">>MARCA ARRUELA:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_40
+        {
+            name = "Parafuso_9";
+            x1 = 46;
+            y1 = 1;
+            x2 = 46;
+            y2 = 1;
+            string = ">>COD ERP ARRUELA:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_41
+        {
+            name = "NAME_campo_4";
+            location = (66, 1);
+            formula = "GetValue(\"USERDEFINED.MAT_ARRUELA1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_46
+        {
+            name = "NAME_campo_5";
+            location = (110, 3);
+            formula = "GetValue(\"USERDEFINED.MARCA_ARRUELA2\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_47
+        {
+            name = "Parafuso_10";
+            x1 = 89;
+            y1 = 3;
+            x2 = 89;
+            y2 = 3;
+            string = ">>MARCA ARRUELA2:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_48
+        {
+            name = "Parafuso_11";
+            x1 = 89;
+            y1 = 1;
+            x2 = 89;
+            y2 = 1;
+            string = ">>COD ERP ARRUELA2:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_49
+        {
+            name = "NAME_campo_6";
+            location = (110, 1);
+            formula = "GetValue(\"USERDEFINED.MAT_ARRUELA2\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_54
+        {
+            name = "NAME_campo_7";
+            location = (155, 3);
+            formula = "GetValue(\"USERDEFINED.MARCA_ARRUELA3\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_55
+        {
+            name = "Parafuso_12";
+            x1 = 134;
+            y1 = 3;
+            x2 = 134;
+            y2 = 3;
+            string = ">>MARCA ARRUELA3:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_56
+        {
+            name = "Parafuso_13";
+            x1 = 134;
+            y1 = 1;
+            x2 = 134;
+            y2 = 1;
+            string = ">>COD ERP ARRUELA3:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_57
+        {
+            name = "NAME_campo_8";
+            location = (155, 1);
+            formula = "GetValue(\"USERDEFINED.MAT_ARRUELA3\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_62
+        {
+            name = "NAME_campo_9";
+            location = (196, 3);
+            formula = "GetValue(\"USERDEFINED.MARCA_PORCA1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_63
+        {
+            name = "Parafuso_14";
+            x1 = 177;
+            y1 = 3;
+            x2 = 177;
+            y2 = 3;
+            string = ">>MARCA PORCA:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_64
+        {
+            name = "Parafuso_15";
+            x1 = 177;
+            y1 = 1;
+            x2 = 177;
+            y2 = 1;
+            string = ">>COD ERP PORCA:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_65
+        {
+            name = "NAME_campo_10";
+            location = (196, 1);
+            formula = "GetValue(\"USERDEFINED.MAT_PORCA1\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        valuefield _tmp_70
+        {
+            name = "NAME_campo_11";
+            location = (239, 3);
+            formula = "GetValue(\"USERDEFINED.MARCA_PORCA2\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+
+        text _tmp_71
+        {
+            name = "Parafuso_16";
+            x1 = 220;
+            y1 = 3;
+            x2 = 220;
+            y2 = 3;
+            string = ">>MARCA PORCA2:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        text _tmp_72
+        {
+            name = "Parafuso_17";
+            x1 = 220;
+            y1 = 1;
+            x2 = 220;
+            y2 = 1;
+            string = ">>COD ERP PORCA2:";
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 2.5;
+            fontratio = 1;
+            fontslant = 0;
+            fontstyle = 0;
+            angle = 0;
+            justify = LEFT;
+            pen = -1;
+        };
+
+        valuefield _tmp_73
+        {
+            name = "NAME_campo_12";
+            location = (239, 1);
+            formula = "GetValue(\"USERDEFINED.MAT_PORCA2\")";
+            maxnumoflines = 1;
+            datatype = STRING;
+            class = "";
+            cacheable = TRUE;
+            formatzeroasempty = FALSE;
+            justify = LEFT;
+            visibility = TRUE;
+            angle = 0;
+            length = 14;
+            decimals = 0;
+            sortdirection = ASCENDING;
+            fontname = "Arial";
+            fontcolor = 153;
+            fonttype = 2;
+            fontsize = 5;
+            fontratio = 1.5;
+            fontstyle = 0;
+            fontslant = 0;
+            pen = -1;
+            oncombine = NONE;
+            aligncontenttotop = FALSE;
+        };
+    };
+};
